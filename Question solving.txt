@@ -1,0 +1,2 @@
+binomial = n is given
+poisson = n is not given if given then n is very large as compared to x
